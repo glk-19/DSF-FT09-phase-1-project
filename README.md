@@ -18,7 +18,7 @@ The project utilizes a dataset derived from Kaggle which comprises aviation acci
 However, this project has utilized only 10 columns that are relevant in answering the project objective. The study puts heavy focus on manufacturer-based attributes such as the make and model, number of engines in an aircraft as well as other situational variables such as the broad phase of flight, the weather condition, injury severity, and the total death count. Dataset
 
 ## Data Visualization
-###Important Visualizations
+### Important Visualizations
 Accident Frequency by Aircraft Type: This bar chart displays the frequency of accidents for different aircraft types. It helps identify which aircraft types have the highest and lowest accident rates.
 Accident Causes and Severity: A stacked bar chart showing the causes of accidents and their severity. This visualization highlights the most common causes of accidents and the proportion of severe accidents, aiding in understanding risk factors.
 Accident Frequency by Phase of Flight: A bar chart showing the distribution of accidents across different phases of flight (e.g., takeoff, landing, cruise). This helps identify the most critical phases where accidents are more likely to occur.
